@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carol\\Downloads\\CHana_MiniCh1\\Say_Hello\\Say Hello.csproj": {}
+    "C:\\Users\\petec\\HanaC_SayHello1\\Say_Hello\\Say Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carol\\Downloads\\CHana_MiniCh1\\Say_Hello\\Say Hello.csproj": {
+    "C:\\Users\\petec\\HanaC_SayHello1\\Say_Hello\\Say Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carol\\Downloads\\CHana_MiniCh1\\Say_Hello\\Say Hello.csproj",
+        "projectUniqueName": "C:\\Users\\petec\\HanaC_SayHello1\\Say_Hello\\Say Hello.csproj",
         "projectName": "Say Hello",
-        "projectPath": "C:\\Users\\carol\\Downloads\\CHana_MiniCh1\\Say_Hello\\Say Hello.csproj",
-        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carol\\Downloads\\CHana_MiniCh1\\Say_Hello\\obj\\",
+        "projectPath": "C:\\Users\\petec\\HanaC_SayHello1\\Say_Hello\\Say Hello.csproj",
+        "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\petec\\HanaC_SayHello1\\Say_Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
